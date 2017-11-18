@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+Blink/components/coocox-master/STM32F103xB_CUBELIB/
+Blink/STM32F103xB_CUBELIB.lbr
+Blink/components/coocox-master/cmsis_core/
