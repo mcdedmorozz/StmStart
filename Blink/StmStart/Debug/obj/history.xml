@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m3 -mthumb -g2 -Wall -O0 -c -DSTM32F103C8T6 -IE:\Documents\GitHub\StmStart\Blink\components\coocox-master\STM32F10x_HD_STDLIB -IE:\Documents\GitHub\StmStart\Blink\components\coocox-master\cmsis_core\source -IE:\Documents\GitHub\StmStart\Blink\components\coocox-master\STM32F10x_HD_STDLIB\source -IE:\Documents\GitHub\StmStart\Blink\components\coocox-master\cmsis_core -IE:\Documents\GitHub\StmStart\Blink\components\coocox-master -IE:\Documents\GitHub\StmStart\Blink">
+      <target file="stm32f10x_dbgmcu.o" lastModified="15fd0dfc157">
+         <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_dbgmcu.c" lastModified="15fd08a8d33"/>
+      </target>
+      <target file="stm32f10x_spi.o" lastModified="15fd0dfcc85">
+         <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_spi.c" lastModified="15fd08a8c42"/>
+      </target>
+      <target file="stm32f10x_iwdg.o" lastModified="15fd0dfce2c">
+         <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_iwdg.c" lastModified="15fd08a8c20"/>
+      </target>
+      <target file="stm32f10x_crc.o" lastModified="15fd0dfc63d">
+         <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_crc.c" lastModified="15fd08a8cf5"/>
+      </target>
+      <target file="stm32f10x_rcc.o" lastModified="15fd0dfc6d9">
+         <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_rcc.c" lastModified="15fd08a8bcf"/>
+      </target>
+      <target file="stm32f10x_cec.o" lastModified="15fd0dfc9f5">
+         <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_cec.c" lastModified="15fd08a8d14"/>
+      </target>
+      <target file="stm32f10x_pwr.o" lastModified="15fd0dfc31b">
+         <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_pwr.c" lastModified="15fd08a8c9d"/>
+      </target>
+      <target file="stm32f10x_dac.o" lastModified="15fd0dfc54f">
+         <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_dac.c" lastModified="15fd08a8d05"/>
+      </target>
+      <target file="stm32f10x_i2c.o" lastModified="15fd0dfcd31">
+         <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_i2c.c" lastModified="15fd08a8c6b"/>
+      </target>
+      <target file="misc.o" lastModified="15fd0dfcb7b">
+         <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\misc.c" lastModified="15fd08a8cf5"/>
+      </target>
+      <target file="stm32f10x_fsmc.o" lastModified="15fd0dfc29f">
+         <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_fsmc.c" lastModified="15fd08a8c7a"/>
+      </target>
+      <target file="stm32f10x_flash.o" lastModified="15fd0dfc978">
+         <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_flash.c" lastModified="15fd08a8c8d"/>
+      </target>
+      <target file="stm32f10x_bkp.o" lastModified="15fd0dfcdae">
+         <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_bkp.c" lastModified="15fd08a8cdb"/>
+      </target>
+      <target file="stm32f10x_gpio.o" lastModified="15fd0dfc4b2">
+         <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_gpio.c" lastModified="15fd08a8d05"/>
+      </target>
+      <target file="stm32f10x_rtc.o" lastModified="15fd0dfbfa1">
+         <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_rtc.c" lastModified="15fd08a8be3"/>
+      </target>
+      <target file="stm32f10x_exti.o" lastModified="15fd0dfc756">
+         <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_exti.c" lastModified="15fd08a8c9d"/>
+      </target>
+      <target file="stm32f10x_can.o" lastModified="15fd0dfc3f6">
+         <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_can.c" lastModified="15fd08a8c50"/>
+      </target>
+      <target file="system_stm32f10x.o" lastModified="15fd0dfc1d4">
+         <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\system_stm32f10x.c" lastModified="15fd08a8cad"/>
+      </target>
+      <target file="startup_stm32f10x_hd.o" lastModified="15fd0dfc1e3">
+         <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\startup_stm32f10x_hd.s" lastModified="15fd08a8d33"/>
+      </target>
+      <target file="stm32f10x_sdio.o" lastModified="15fd0dfca81">
+         <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_sdio.c" lastModified="15fd08a8bdf"/>
+      </target>
+      <target file="stm32f10x_tim.o" lastModified="15fd0dfc0bb">
+         <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_tim.c" lastModified="15fd08a8c7f"/>
+      </target>
+      <target file="stm32f10x_adc.o" lastModified="15fd0dfc801">
+         <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_adc.c" lastModified="15fd08a8c56"/>
+      </target>
+      <target file="stm32f10x_wwdg.o" lastModified="15fd0dfcbe8">
+         <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_wwdg.c" lastModified="15fd08a8c9d"/>
+      </target>
+      <target file="stm32f10x_dma.o" lastModified="15fd0dfcafe">
+         <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_dma.c" lastModified="15fd08a8ccc"/>
+      </target>
+      <target file="stm32f10x_usart.o" lastModified="15fd0dfc8bd">
+         <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_usart.c" lastModified="15fd08a8d24"/>
+      </target>
+      <target file="main.o" lastModified="15fd0dfc5bc">
+         <source file="..\..\..\app\main.c" lastModified="15fd0df10d5"/>
+      </target>
+   </processor>
+</history>
