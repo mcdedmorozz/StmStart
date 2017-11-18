@@ -64,7 +64,9 @@
     </DebugOption>
     <ExcludeFile/>
   </Target>
-  <Components path="./"/>
+  <Components path="./">
+    <Component id="141" name="Cox_Interface" path="" type="BasicComponet"/>
+  </Components>
   <LocalComponents/>
   <Files>
     <File name="main.c" path="E:\Documents\GitHub\StmStart\Blink\app\main.c" type="1"/>
