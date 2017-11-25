@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dependencies>
+   <includePath signature="/IE:\Documents\GitHub\StmStart\Blink\components\coocox-master\STM32F10x_HD_STDLIB /IE:\Documents\GitHub\StmStart\Blink\components\coocox-master\cmsis_core\source /IE:\Documents\GitHub\StmStart\Blink\components\coocox-master\STM32F10x_HD_STDLIB\source /IE:\Documents\GitHub\StmStart\Blink\components\coocox-master\cmsis_core /IE:\Documents\GitHub\StmStart\Blink\components\coocox-master /IE:\Documents\GitHub\StmStart\Blink">
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_wwdg.c" lastModified="15fd08a8c9d">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_wwdg.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_rcc.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_crc.h" lastModified="15fd08a8d14">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_conf.h" lastModified="15fd08a8cf3">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_adc.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_bkp.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_can.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_cec.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_crc.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_dac.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_dbgmcu.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_dma.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_exti.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_flash.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_fsmc.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_gpio.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_i2c.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_iwdg.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_pwr.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_rcc.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_rtc.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_sdio.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_spi.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_tim.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_usart.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_wwdg.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\misc.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_usart.h" lastModified="15fd08a8d24">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_crc.c" lastModified="15fd08a8cf5">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_crc.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_usart.c" lastModified="15fd08a8d24">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_usart.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_rcc.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_i2c.h" lastModified="15fd08a8c60">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_spi.h" lastModified="15fd08a8c76">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\system_stm32f10x.h" lastModified="15fd08a8cef">
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_i2c.c" lastModified="15fd08a8c6b">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_i2c.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_rcc.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_flash.h" lastModified="15fd08a8c8d">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_spi.c" lastModified="15fd08a8c42">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_spi.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_rcc.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_sdio.h" lastModified="15fd08a8bdb">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\system_stm32f10x.c" lastModified="15fd08a8cad">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_flash.c" lastModified="15fd08a8c8d">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_flash.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_sdio.c" lastModified="15fd08a8bdf">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_sdio.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_rcc.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_fsmc.h" lastModified="15fd08a8c3d">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\startup_stm32f10x_hd.s" lastModified="15fd08a8d33">
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_fsmc.c" lastModified="15fd08a8c7a">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_fsmc.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_rcc.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_tim.h" lastModified="15fd08a8c65">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_tim.c" lastModified="15fd08a8c7f">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_tim.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_rcc.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_cec.h" lastModified="15fd08a8cf5">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_iwdg.h" lastModified="15fd08a8be8">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_exti.h" lastModified="15fd08a8c8d">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_gpio.h" lastModified="15fd08a8cf5">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_rtc.h" lastModified="15fd08a8bd7">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_cec.c" lastModified="15fd08a8d14">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_cec.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_rcc.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_dbgmcu.h" lastModified="15fd08a8d24">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_rcc.h" lastModified="15fd08a8bbd">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_can.h" lastModified="15fd08a8c47">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_iwdg.c" lastModified="15fd08a8c20">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_iwdg.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_exti.c" lastModified="15fd08a8c9d">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_exti.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_dac.h" lastModified="15fd08a8d24">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_gpio.c" lastModified="15fd08a8d05">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_gpio.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_rcc.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_pwr.h" lastModified="15fd08a8cbc">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_rtc.c" lastModified="15fd08a8be3">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_rtc.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_dbgmcu.c" lastModified="15fd08a8d33">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_dbgmcu.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x.h" lastModified="15fd08a8feb">
+         <include file="..\..\..\components\coocox-master\cmsis_core\source\core_cm3.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\system_stm32f10x.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_conf.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_rcc.c" lastModified="15fd08a8bcf">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_rcc.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_adc.h" lastModified="15fd08a8c4c">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_can.c" lastModified="15fd08a8c50">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_can.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_rcc.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_dac.c" lastModified="15fd08a8d05">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_dac.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_rcc.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\misc.h" lastModified="15fd08a8cbc">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_pwr.c" lastModified="15fd08a8c9d">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_pwr.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_rcc.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\cmsis_core\source\core_cm3.h" lastModified="15fd0869fd2">
+         <include file="..\..\..\components\coocox-master\cmsis_core\source\core_cmInstr.h"/>
+         <include file="..\..\..\components\coocox-master\cmsis_core\source\core_cmFunc.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_adc.c" lastModified="15fd08a8c56">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_adc.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_rcc.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\misc.c" lastModified="15fd08a8cf5">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\misc.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\cmsis_core\source\core_cmFunc.h" lastModified="15fd086a4ae">
+      </source>
+      <source file="..\..\..\components\coocox-master\cmsis_core\source\core_cmInstr.h" lastModified="15fd086a445">
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_bkp.h" lastModified="15fd08a8cbc">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_dma.h" lastModified="15fd08a8cbc">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_wwdg.h" lastModified="15fd08a8ccc">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_bkp.c" lastModified="15fd08a8cdb">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_bkp.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_rcc.h"/>
+      </source>
+      <source file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_dma.c" lastModified="15fd08a8ccc">
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_dma.h"/>
+         <include file="..\..\..\components\coocox-master\STM32F10x_HD_STDLIB\source\stm32f10x_rcc.h"/>
+      </source>
+   </includePath>
+</dependencies>
